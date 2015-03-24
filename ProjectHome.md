@@ -1,0 +1,1 @@
+Finds the position a string appears on a web search
